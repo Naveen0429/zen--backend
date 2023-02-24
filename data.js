@@ -123,27 +123,27 @@ export const classesData = [
 export const taskData = [
     {
         "taskName" : "Task-01",
-        "taskInfo" : "https://github.com/Nowsath04/filesystem.git - Implement UI as shown in provided URL",
+        "taskInfo" : "https://github.com/Naveen0429/getelement-task.git- Implement UI as shown in provided URL",
         "taskDoneBy" : []
     },
     {
         "taskName" : "Task-02",
-        "taskInfo" : "https://github.com/Nowsath04/library-portal.git - Please read the task description in provided URL",
+        "taskInfo" : "https://github.com/Naveen0429/sb-admin.git- Please read the task description in provided URL",
         "taskDoneBy" : []
     },
     {
         "taskName" : "Task-03",
-        "taskInfo" : "https://github.com/Nowsath04/mongo-task-2.git - Please read the task description in provided URL",
+        "taskInfo" : "https://github.com/Naveen0429/thirukural-api-task.git - Please read the task description in provided URL",
         "taskDoneBy" : []
     },
     {
         "taskName" : "Task-04",
-        "taskInfo" : "https://github.com/Nowsath04/dashboard-2.git- Implement pricecart UI as in the mentioned URL using React JS",
+        "taskInfo" : "https://github.com/Naveen0429/pagination-task.git- Implement pricecart UI as in the mentioned URL using React JS",
         "taskDoneBy" : []
     },
     {
         "taskName" : "Task-05",
-        "taskInfo" : "https://github.com/Nowsath04/news-api-task.git - Implement UI as per the url and add functionality between 'Add to Cart' button and 'Cart'.",
+        "taskInfo" : "https://github.com/Naveen0429/dog-api-task.git - Implement UI as per the url and add functionality between 'Add to Cart' button and 'Cart'.",
         "taskDoneBy" : []
     },
     {
@@ -153,7 +153,7 @@ export const taskData = [
     },
     {
         "taskName" : "Task-07",
-        "taskInfo" : "https://github.com/Nowsath04/imbd-task.git - Please read the task description in provided URL",
+        "taskInfo" : "https://github.com/Naveen0429/library-admin.git - Please read the task description in provided URL",
         "taskDoneBy" : []
     },
     {
